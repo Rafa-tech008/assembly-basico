@@ -1,7 +1,9 @@
+# VS Code
 .vscode/
-*.log
-*.tmp
-*.bak
-*~
+
+# IntelliJ
+.idea/
+
+# Arquivos do sistema
 .DS_Store
 Thumbs.db
